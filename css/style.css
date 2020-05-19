@@ -159,7 +159,7 @@ footer {
 footer ul {
     display: flex;
     justify-content: space-evenly;
-    padding: 3rem;
+    padding: 1.5rem;
     list-style-type: none;
 }
 
@@ -168,7 +168,7 @@ footer a {
 }
 
 footer p.copyright {
-    padding-bottom: 3rem;
+    padding-bottom: 1.5rem;
     color:#ffffffdd;
     text-align: center;
 }
